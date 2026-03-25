@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#5B6EAE</color>
+    <color name="primary_container">#DDE1FF</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="on_primary_container">#0E1678</color>
+
+    <color name="secondary">#7C6E9E</color>
+    <color name="secondary_container">#ECDCFF</color>
+    <color name="on_secondary_container">#2A0063</color>
+
+    <color name="background">#F4F4FB</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#E5E5F0</color>
+    <color name="on_surface">#1B1B2E</color>
+    <color name="on_surface_variant">#45455A</color>
+    <color name="outline_variant">#D0D0E0</color>
+
+    <color name="colorPrimary">#5B6EAE</color>
+    <color name="colorPrimaryDark">#3D4F90</color>
+    <color name="colorAccent">#7C6E9E</color>
 </resources>
